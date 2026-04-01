@@ -4,7 +4,7 @@ locales:
       ## Major update with new features
 
       This version includes:
-      - Switch between Table Plan and Direct Sales прямо в приложении
+      - Switch between Table Plan and Direct Sales directly in the PoS
       - Notification when device mode changes from Back Office
       - Quick payment buttons (Cash & Card) in Direct Sales
       - Other improvements and fixes
