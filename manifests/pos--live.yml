@@ -23,3 +23,8 @@ versions:
     matchers:
       - matcher_type: default
         severity: green
+  "1.12.11":
+    released_at: 2026-04-01T10:00:00Z
+    matchers:
+      - matcher_type: default
+        severity: green
