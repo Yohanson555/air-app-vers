@@ -54,3 +54,14 @@ versions:
     matchers:
       - matcher_type: default
         severity: green
+  "1.19.9":
+    released_at: 2026-07-21T08:00:00Z
+    matchers:
+      - matcher_type: default
+        severity: green
+      - matcher_type: location_hash
+        matcher_value: 13b7f02615886a40ed96ac797b5dc846302e27c86661d883d90e3ff0f9314ce3
+        severity: yellow
+      - matcher_type: location_hash
+        matcher_value: 63c4594e0bf01796c4cc4db48e671316ca2804967e30fb190232ca0e2cc850d2
+        severity: yellow

@@ -1,0 +1,46 @@
+locales:
+  - name: en-en
+    notes: |
+      ## Major update with new features
+
+      This version includes:
+      - Improved Tap to Pay stability.
+      - Fixed Split Bill calculations.
+      - Improved preparation printer configuration.
+      - Fixed cash drawer support for Star printers.
+  - name: es-ES
+    notes: |
+      ## Actualización importante con nuevas funciones
+
+      Esta versión incluye:
+      - Se ha mejorado la estabilidad de Tap to Pay.
+      - Se han corregido los cálculos de cuentas divididas.
+      - Se ha mejorado la configuración de las impresoras de preparación.
+      - Se ha corregido la compatibilidad del cajón portamonedas con las impresoras Star.
+  - name: nl-NL
+    notes: |
+      ## Grote update met nieuwe functies
+
+      Deze versie bevat:
+      - Verbeterde stabiliteit van Tap to Pay.
+      - Berekeningen voor gesplitste rekeningen opgelost.
+      - Configuratie van voorbereidingsprinters verbeterd.
+      - Ondersteuning voor kassalades met Star-printers verbeterd.
+  - name: fr-FR
+    notes: |
+      ## Mise à jour majeure avec de nouvelles fonctionnalités
+
+      Cette version comprend :
+      - Amélioration de la stabilité de Tap to Pay.
+      - Correction des calculs de partage de l'addition.
+      - Amélioration de la configuration des imprimantes de préparation.
+      - Correction de la prise en charge des tiroirs-caisses avec les imprimantes Star.
+  - name: de-DE
+    notes: |
+      ## Großes Update mit neuen Funktionen
+
+      Diese Version enthält:
+      - Stabilität von Tap to Pay verbessert.
+      - Berechnung geteilter Rechnungen korrigiert.
+      - Konfiguration von Vorbereitungsdruckern verbessert.
+      - Unterstützung für Kassenschubladen mit Star-Druckern verbessert.
